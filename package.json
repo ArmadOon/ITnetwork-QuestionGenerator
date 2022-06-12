@@ -1,0 +1,7 @@
+{
+  "name": "Generator Otazek",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
